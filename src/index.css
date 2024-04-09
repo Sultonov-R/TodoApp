@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url('https://blog.nursetasks.com/content/images/2023/08/Frame-8--1-.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
